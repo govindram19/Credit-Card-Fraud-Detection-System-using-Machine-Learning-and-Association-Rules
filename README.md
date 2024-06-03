@@ -6,4 +6,4 @@ d. Introduction to NoSQL based databases and their applcations with Big Data Ana
 
 This project demonstrates a simple credit card fraud detection system where we learn the features of the dataset using Support Vector Machine combined with Association Rules to form frequent itemsets to finally predict the fraudulent transactions in the given data.
 
-Note : Kindly download the file if it does not open on GitHub. Apologies for the inconvenience.. Thank you!
+Note : Kindly download the file and run it on Google Colab if it does not open on GitHub. Apologies for the inconvenience.. Thank you!
